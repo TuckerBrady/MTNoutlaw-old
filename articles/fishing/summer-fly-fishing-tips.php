@@ -115,22 +115,22 @@
                     <li class="date">June 7, 2020</li>
                     <li class="cat">
                         In
-                        <a href="/ar">Fishing</a>
+                        <a href="/articles/fishing/fishing-articles">Fishing</a>
                     </li>
                 </ul>
             </div> <!-- end s-content__header -->
     
             <div class="s-content__media col-full">
                 <div class="s-content__post-thumb">
-                    <img src="/images/thumbs/featured/archery-tips.jpg">
+                    <img src="/images/thumbs/featured/fly-fishing.jpg">
                 </div>
             </div> <!-- end s-content__media -->
 
             <div class="col-full s-content__main">
 
-               <h2>Trigger Panic: What it is, and how to overcome it.</h2>
+               <h2>Tight Lines and Ripped Lips.</h2>
 
-                <p class="lead">Do you get the cold sweats when you're aiming your arrow down range? Mind starts racing as your arms quake a bit; slowly but surely it starts to consume your mind and your confidence. Let's break it down. What is the root of the problem? It's very important to understand where it comes from before you can begin learning proper shot execution. While there are many forms of trigger panic and just as many ways to cure it, there are a few things you can do to prevent or beat this horrible condition. </p>
+                <p class="lead">It's the best of times, it's the worst of times. That's how I like to describe chasing trout in the heat of the Summer. Let's see if we can't use this weather to our advantage! </p>
                 
                <p class="drop-cap">The main form of trigger panic derives from what I call 'anxious aiming.' This occurs when the pin settles in where you want it to and you feel like you have to fire that release immediately. Or, you start to slip into the habbit of touching off the trigger as the sight wobbles over the center of the target. Over time, you develop a hardwired connection between your trigger finger and your eye, and that connection takes time. Think about it, from the time your mind tells your finger to fire that shot, to the act of your finger actually doing it, is enough time to move off your mark.  Now, you may say you don’t have trigger panic, but if you can’t aim in the middle and slowly fire that shot, then I’ve got some bad news: YOU'VE GOT TRIGGER PANIC. Luckily, I'm here to help. </p>
                
@@ -151,21 +151,20 @@
 
 
                <div class="s-content__author">
-                  <img src="/images/avatars/tucker.jpg" alt="">
+                  <img src="/images/avatars/mac.jpg" alt="">
 
                   <div class="s-content__author-about">
                      <h4 class="s-content__author-name">
-                        Tucker Brady
+                        Mac Brady
                      </h4>
                     
                      <p> 
-                        A software engineer by trade, but first and foremost a husband and a father. When I'm not wrestling my two boys, or the bugs in my code, I'm up in the mountains. 
+                        A husband, father, Logistics Officer in the USAF, and a carbohydrate aficionado. He lives in Norther Utah with his family and enjoys a good glazed donut and all that The Outdoors have to offer. 
                      </p>
 
                      <ul class="s-content__author-social">
-                        <li><a href="https://www.facebook.com/tucker.a.brady" target="_blank">Facebook</a></li>
-                        <li><a href="https://twitter.com/tucker_brady" target="_blank">Twitter</a></li>
-                        <li><a href="https://www.instagram.com/tucker_al/" target="_blank">Instagram</a></li>
+                        <li><a href="https://twitter.com/akaWhiteCheddar" target="_blank">Twitter</a></li>
+                        <li><a href="https://www.instagram.com/macklin_judd/" target="_blank">Instagram</a></li>
                      </ul>
                   </div>
                </div>
