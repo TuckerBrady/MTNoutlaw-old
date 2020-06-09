@@ -128,26 +128,44 @@
 
             <div class="col-full s-content__main">
 
-               <h2>Tight Lines and Ripped Lips.</h2>
+                <h2>Tight Lines and Ripped Lips.</h2>
 
-                <p class="lead">It's the best of times, it's the worst of times. That's how I like to describe chasing trout in the heat of the Summer. Let's see if we can't use this weather to our advantage! </p>
+                <p class="lead">Summer is here and that means eager anglers are hitting the water. After the cold days of winter and high waters of spring, the golden months have arrived. Insects are hatching, fish are feeding, and the weather is great.
+
+                While summer is most people’s favorite season to fish, it does require changing up your techniques from previous seasons. Before you hit the water in the summer sun, make sure you brush up on your summer fly fishing techniques!</p>
                 
-               <p class="drop-cap">The main form of trigger panic derives from what I call 'anxious aiming.' This occurs when the pin settles in where you want it to and you feel like you have to fire that release immediately. Or, you start to slip into the habbit of touching off the trigger as the sight wobbles over the center of the target. Over time, you develop a hardwired connection between your trigger finger and your eye, and that connection takes time. Think about it, from the time your mind tells your finger to fire that shot, to the act of your finger actually doing it, is enough time to move off your mark.  Now, you may say you don’t have trigger panic, but if you can’t aim in the middle and slowly fire that shot, then I’ve got some bad news: YOU'VE GOT TRIGGER PANIC. Luckily, I'm here to help. </p>
+                <p class="drop-cap"></p>
                
-               <h4>Know Thyself.</h4>
-               <p>You are probably wondering to yourself, "Self, how can I solve this? That's good! We want to use our brains, to get them to work for us. The fact is, the problem lies between your ears, not in the act of shooting. What you need to do is commit several weeks to the cure; every day or every chance you get, hold your release. It needs to become an extension of your hand. Get to know every click it makes, every scratch on it, everything about it. Know when it releases and exactly how much tension it takes to get there. Once you're comfortable with your new appendage, Move on to the next phase.</p>
+                <h4>Thermocline.</h4>
+                <p>Anglers often overlook the value of the thermocline. Hands down, it's one of the most important factors when looking to catch summer trout.
 
-               <h4>Mental Reps.</h4>
-               <p>I don't care what it is, if you're wanting to improve, getting your mental reps in is key. I once heard a story of a Prisoner of War. Before the war, he was an avid golfer. After his liberation, when asked how he coped with everything, he replied that every day, he would play his favorite golf course in his head. Visualizing every part of his game and the the course. His first time back on the course, he shaved 4 strokes off his game! We will apply this same pricipal. When you're laying in bed, before you fall asleep, you need to think about your shot; EVERYTHING about your shot. From nocking the deathwhistle, to drawing your string, finding your target and putting just enough tenstion on your release to send that sucker down range. Watch your arrow go down the range, how is it flying? What kind of arch does it have? What's the weather like? Are you standing on dirt? Grass? A hill? You need to go over every detail in your mind. Send several arrows down range and hit your mark. Studies have shown us that as we sleep, our brains will work on and solve problems we were working on before we fell asleep. Let's use that to our advantage and work on our trigger panic in our sleep!</p>
+                In any body of water, the thermocline is a zone of greatest temperature change. For those of us who aren't scientists, all you need to know is the thermocline is a <b>trout magnet.</b> In summer, when surface temperatures can rise well above of 80 degrees, the thermocline is a sanctuary for trout because it harbors cooler water and food.
+
+                To elaborate, in the summer when the surface temperature might be 80 degrees throughout the first 15 feet of the water column, there's a layer below the warm water. This layer is considered the middle layer -- or scientifically, the thermocline, that section of the water column that experiences a drastic drop in temperature. The thermocline is the smallest of the three layers in lakes, ponds and reservoirs, but will possess the widest range of temperature. The bottom layer harbors the coldest water and is consistent, like the upper layer. But the bottom layer doesn't hold as many actively feeding trout as the thermocline does.
+
+                A thermocline develops in most lakes, ponds and reservoirs in the West. However, most of the time it doesn't form until early to mid-summer as warmer water floats on top of the cold water. By mid-summer, that middle layer -- the thermocline -- becomes more visible and stands out as a greater fish-holding zone. Algae and other zooplankton hide out in this zone, while pond smelt, shad, minnows and other baitfish stay near the upper and lower layers of the thermocline. Baitfish and game fish are commonly found in the thermocline throughout the warmer months, partially because of ideal water temperatures and also because their food is here.
+
+                In summer, you'll increase catch rates by trolling spoons, stickbaits, spinners and night crawlers through the thermocline. It's also effective to drift salmon eggs, dough baits, worms, crickets and grasshoppers.
+
+                Locating the thermocline isn't as challenging as it might seem. Most reservoirs take daily or weekly readings to keep track of it, and the officials often make their findings public. High-end fish finders can also indicate where the zone is. Your best bet may be to call local marinas, tackle shops and lake offices to ask how deep the thermocline is. Most can give you up-to-date information, which will help you catch more trout.
+
+                If you are a troller, you'll probably need downriggers or lead-core line to fish the thermocline, which wanders from 30 to 150 feet or deeper, depending on water temperature, elevation, recent wind and weather patterns, the size of the lake or reservoir and its depth.
+
+                The thermocline can vary by week. From July through September, this will likely be the zone you'll want to target for the best trout-fishing action.
+
+                When working the thermocline, experiment. Try running some lures near the top of it, others in the middle and a few towards the bottom. Once you discover where the fish are most active, then it's safe to concentrate your efforts close to that depth.</p>
+
+                <h4>Mental Reps.</h4>
+                <p>I don't care what it is, if you're wanting to improve, getting your mental reps in is key. I once heard a story of a Prisoner of War. Before the war, he was an avid golfer. After his liberation, when asked how he coped with everything, he replied that every day, he would play his favorite golf course in his head. Visualizing every part of his game and the the course. His first time back on the course, he shaved 4 strokes off his game! We will apply this same pricipal. When you're laying in bed, before you fall asleep, you need to think about your shot; EVERYTHING about your shot. From nocking the deathwhistle, to drawing your string, finding your target and putting just enough tenstion on your release to send that sucker down range. Watch your arrow go down the range, how is it flying? What kind of arch does it have? What's the weather like? Are you standing on dirt? Grass? A hill? You need to go over every detail in your mind. Send several arrows down range and hit your mark. Studies have shown us that as we sleep, our brains will work on and solve problems we were working on before we fell asleep. Let's use that to our advantage and work on our trigger panic in our sleep!</p>
                
-               <h4>Let's Get Physical.</h4>
-               <p>So you've been doing your mental reps and you're ready to take the next step, well, go out in the yard or range with an arrow nocked, just like you would normally practice. Simply draw the bow and address the target, aiming with your finger on the trigger – but don’t pull that release; you want to focus only on aiming. Keep that pin where you want to the arrow to hit until your aiming starts to break down. Then let down and reset, never firing the arrow. Treat this just as you would any practice session, except never actually shoot your bow. This will do two things that benefit you greatly as an archer. First, it will teach your mind that it is OK for that pin to settle on the bulls-eye without firing that arrow. Second, it will increase the length of time during which you can effectively aim before your shot breaks down. Over time, you will be able to add shooting back into your routine, but if you ever feel those anxious or rushed feelings, take a few days and just commit to this simple drill.
-               </p>
+                <h4>Let's Get Physical.</h4>
+                <p>So you've been doing your mental reps and you're ready to take the next step, well, go out in the yard or range with an arrow nocked, just like you would normally practice. Simply draw the bow and address the target, aiming with your finger on the trigger – but don’t pull that release; you want to focus only on aiming. Keep that pin where you want to the arrow to hit until your aiming starts to break down. Then let down and reset, never firing the arrow. Treat this just as you would any practice session, except never actually shoot your bow. This will do two things that benefit you greatly as an archer. First, it will teach your mind that it is OK for that pin to settle on the bulls-eye without firing that arrow. Second, it will increase the length of time during which you can effectively aim before your shot breaks down. Over time, you will be able to add shooting back into your routine, but if you ever feel those anxious or rushed feelings, take a few days and just commit to this simple drill.
+                </p>
 
 
 
-               <p>Trigger panic is a horrible thing, and if you don’t know how to cure it, it can really mess with your confidence, taking the fun out of shooting your bow. Even if you aren’t struggling with trigger panic (you do), these practices will help you stay calm, even in the most intense circumstances. 
-               </p>
+                <p>Trigger panic is a horrible thing, and if you don’t know how to cure it, it can really mess with your confidence, taking the fun out of shooting your bow. Even if you aren’t struggling with trigger panic (you do), these practices will help you stay calm, even in the most intense circumstances. 
+                </p>
 
 
                <div class="s-content__author">

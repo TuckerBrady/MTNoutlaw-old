@@ -108,9 +108,9 @@
 
                         <div class="entry" >
                             <div class="entry__content">
-                                <span class="entry__category"><a href="#0">Fishing</a></span>
+                                <span class="entry__category"><a href="/articles/fishing/fishing-articles.php">Fishing</a></span>
 
-                                <h1><a href="" title="">Spring Fly Fishing Tips & Tricks!</a></h1>
+                                <h1><a href="/articles/fishing/summer-fly-fishing-tips.php" title="">Summer Fly Fishing Tips & Tricks!</a></h1>
                                 <div class="entry__info">
                                     <div class="entry__profile-pic">
                                         <img class="avatar" src="images/avatars/mac.jpg" alt="">
@@ -129,6 +129,23 @@
 
                     <div class="featured__column featured__column--small">
 
+                    <div class="entry" style="background-image:url('images/thumbs/featured/archery-tips.jpg');">
+
+                    <div class="entry__content">
+                        <span class="entry__category"><a href="/articles/hunting/hunting-articles.php">Hunting</a></span>
+
+                        <h1><a href="/articles/hunting/10-archery-tips.php" title="">10 Archery Tips To Help Improve Your Accuracy: Trigger Panic.</a></h1>
+
+                        <div class="entry__info">
+                            <ul class="entry__meta">
+                                <li>Tucker</li>
+                                <li>June 1, 2020</li>
+                            </ul>
+                        </div>
+                    </div> <!-- end entry__content -->
+
+                    </div> <!-- end entry -->
+
                         <div class="entry" style="background-image:url('/images/thumbs/single/standard/who-we-are.jpg');">
                             
                             <div class="entry__content">
@@ -144,23 +161,6 @@
                                 </div>
                             </div> <!-- end entry__content -->
                           
-                        </div> <!-- end entry -->
-
-                        <div class="entry" style="background-image:url('images/thumbs/featured/archery-tips.jpg');">
-
-                            <div class="entry__content">
-                                <span class="entry__category"><a href="/articles/hunting/hunting-articles.php">Hunting</a></span>
-
-                                <h1><a href="/articles/hunting/10-archery-tips.php" title="">10 Archery Tips To Help Improve Your Accuracy: Trigger Panic.</a></h1>
-
-                                <div class="entry__info">
-                                    <ul class="entry__meta">
-                                        <li>Tucker</li>
-                                        <li>June 1, 2020</li>
-                                    </ul>
-                                </div>
-                            </div> <!-- end entry__content -->
-
                         </div> <!-- end entry -->
 
                     </div> <!-- end featured__small -->
@@ -256,6 +256,37 @@
                         <div class="entry__meta">
                             <span class="entry__meta-links">
                                 <a href="articles/hunting/hunting-articles.php">Hunting</a>
+                            </span>
+                        </div>
+                    </div>
+    
+                </article> <!-- end article -->
+
+                <article class="masonry__brick entry format-standard" data-aos="fade-up">
+                        
+                    <div class="entry__thumb">
+                        <a href="articles/fishing/summer-fly-fishing-tips.php" class="entry__thumb-link">
+                            <img src="images/thumbs/featured/fly-fishing.jpg">
+                        </a>
+                    </div>
+    
+                    <div class="entry__text">
+                        <div class="entry__header">
+                            
+                            <div class="entry__date">
+                                June 7, 2020
+                            </div>
+                            <h1 class="entry__title"><a href="/articles/fishing/summer-fly-fishing-tips.php">Summer Fly Fishing Tips</a></h1>
+                            
+                        </div>
+                        <div class="entry__excerpt">
+                            <p>
+                            It's the best of times, it's the worst of times. That's how I like to describe chasing trout in the heat of the Summer. Let's see if we can't use this weather to our advantage!
+                            </p>
+                        </div>
+                        <div class="entry__meta">
+                            <span class="entry__meta-links">
+                                <a href="articles/fishing/fishing-articles.php">Fishing</a>
                             </span>
                         </div>
                     </div>
