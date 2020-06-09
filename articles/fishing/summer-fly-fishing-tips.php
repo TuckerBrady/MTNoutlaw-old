@@ -130,42 +130,39 @@
 
                 <h2>Tight Lines and Ripped Lips.</h2>
 
-                <p class="lead">Summer is here and that means eager anglers are hitting the water. After the cold days of winter and high waters of spring, the golden months have arrived. Insects are hatching, fish are feeding, and the weather is great.
+                <p class="lead">They say you forget your troubles on a trout stream, but that's not quite it. What happens is that you begin to see where your troubles fit into the grand scheme of things, and suddenly they're just not such a big deal anymore.</p>
+                
+                <p class="drop-cap">Summer is here and that means eager anglers are hitting the water. After the cold days of winter and high waters of spring, the golden months have arrived. Insects are hatching, fish are feeding, and the weather is great.
 
                 While summer is most people’s favorite season to fish, it does require changing up your techniques from previous seasons. Before you hit the water in the summer sun, make sure you brush up on your summer fly fishing techniques!</p>
-                
-                <p class="drop-cap"></p>
                
-                <h4>Thermocline.</h4>
-                <p>Anglers often overlook the value of the thermocline. Hands down, it's one of the most important factors when looking to catch summer trout.
+                <h4>The early fish gets the fly. Also, the late fish gets the fly.</h4>
+                <p>There’s more than one reason it’s a good idea to avoid the hottest parts of the day. First of all, the fishing will probably be a little slower than in the morning and evening. In the morning, temperatures are cool, fish are active, and insects will start emerging. In the evening, big hatches can happen. Clouds of caddises can be seen in the evenings of hot summer days, and mayfly spinner falls will be causing fish to go nuts.</p> 
 
-                In any body of water, the thermocline is a zone of greatest temperature change. For those of us who aren't scientists, all you need to know is the thermocline is a <b>trout magnet.</b> In summer, when surface temperatures can rise well above of 80 degrees, the thermocline is a sanctuary for trout because it harbors cooler water and food.
+                <p>While there are definitely still insects that’ll come off in the middle of the day, the early afternoon when temperatures are highest will probably be a little slower fishing than early or late. Fish will often take a little siesta and hold off if it’s really hot, and although you may still catch some, evenings and mornings will produce better results.</p>
 
-                To elaborate, in the summer when the surface temperature might be 80 degrees throughout the first 15 feet of the water column, there's a layer below the warm water. This layer is considered the middle layer -- or scientifically, the thermocline, that section of the water column that experiences a drastic drop in temperature. The thermocline is the smallest of the three layers in lakes, ponds and reservoirs, but will possess the widest range of temperature. The bottom layer harbors the coldest water and is consistent, like the upper layer. But the bottom layer doesn't hold as many actively feeding trout as the thermocline does.
+                <p>In addition to the actual fishing, the wellbeing of the fish is also an issue in summer. Once water temperatures get too warm, fish start to struggle. They get less oxygen and need to take it easy until the water cools down. If you catch a fish in warm water, there’s a decent chance it won’t make it after being released, especially if it took a while to land.</p>
 
-                A thermocline develops in most lakes, ponds and reservoirs in the West. However, most of the time it doesn't form until early to mid-summer as warmer water floats on top of the cold water. By mid-summer, that middle layer -- the thermocline -- becomes more visible and stands out as a greater fish-holding zone. Algae and other zooplankton hide out in this zone, while pond smelt, shad, minnows and other baitfish stay near the upper and lower layers of the thermocline. Baitfish and game fish are commonly found in the thermocline throughout the warmer months, partially because of ideal water temperatures and also because their food is here.
+                <p>Fishing late in the evenings once the water has cooled a little is better, and the best option is to fish in the morning after a long, cool night. These fish have a much better chance of surviving than those caught in the summer heat.</p>
 
-                In summer, you'll increase catch rates by trolling spoons, stickbaits, spinners and night crawlers through the thermocline. It's also effective to drift salmon eggs, dough baits, worms, crickets and grasshoppers.
+                <h4>Hit the riffles.</h4>
+                <p>When it comes to Winter Fly Fishing, you want to target the deep, slow runs of the river. The fish are probably feeling some of that seasonal depression; they're letargic, and dont like to try and compete with those faster runs.</p>
 
-                Locating the thermocline isn't as challenging as it might seem. Most reservoirs take daily or weekly readings to keep track of it, and the officials often make their findings public. High-end fish finders can also indicate where the zone is. Your best bet may be to call local marinas, tackle shops and lake offices to ask how deep the thermocline is. Most can give you up-to-date information, which will help you catch more trout.
-
-                If you are a troller, you'll probably need downriggers or lead-core line to fish the thermocline, which wanders from 30 to 150 feet or deeper, depending on water temperature, elevation, recent wind and weather patterns, the size of the lake or reservoir and its depth.
-
-                The thermocline can vary by week. From July through September, this will likely be the zone you'll want to target for the best trout-fishing action.
-
-                When working the thermocline, experiment. Try running some lures near the top of it, others in the middle and a few towards the bottom. Once you discover where the fish are most active, then it's safe to concentrate your efforts close to that depth.</p>
-
-                <h4>Mental Reps.</h4>
-                <p>I don't care what it is, if you're wanting to improve, getting your mental reps in is key. I once heard a story of a Prisoner of War. Before the war, he was an avid golfer. After his liberation, when asked how he coped with everything, he replied that every day, he would play his favorite golf course in his head. Visualizing every part of his game and the the course. His first time back on the course, he shaved 4 strokes off his game! We will apply this same pricipal. When you're laying in bed, before you fall asleep, you need to think about your shot; EVERYTHING about your shot. From nocking the deathwhistle, to drawing your string, finding your target and putting just enough tenstion on your release to send that sucker down range. Watch your arrow go down the range, how is it flying? What kind of arch does it have? What's the weather like? Are you standing on dirt? Grass? A hill? You need to go over every detail in your mind. Send several arrows down range and hit your mark. Studies have shown us that as we sleep, our brains will work on and solve problems we were working on before we fell asleep. Let's use that to our advantage and work on our trigger panic in our sleep!</p>
+                <p>In the summertime though, it's a whole different ball game! The slow deep pools in the river will most likely be warmer, and have less oxygen than the quicker moving water. The fish will also have the energy they need to sit in the fast water, slurpin' those bugs! Now, this doesn't mean you can only fish the fast runs, but definitely think twice about avoiding those shallow, quicker riffles. They can be great places to scoop some fish!</p>
                
-                <h4>Let's Get Physical.</h4>
-                <p>So you've been doing your mental reps and you're ready to take the next step, well, go out in the yard or range with an arrow nocked, just like you would normally practice. Simply draw the bow and address the target, aiming with your finger on the trigger – but don’t pull that release; you want to focus only on aiming. Keep that pin where you want to the arrow to hit until your aiming starts to break down. Then let down and reset, never firing the arrow. Treat this just as you would any practice session, except never actually shoot your bow. This will do two things that benefit you greatly as an archer. First, it will teach your mind that it is OK for that pin to settle on the bulls-eye without firing that arrow. Second, it will increase the length of time during which you can effectively aim before your shot breaks down. Over time, you will be able to add shooting back into your routine, but if you ever feel those anxious or rushed feelings, take a few days and just commit to this simple drill.
-                </p>
+                <h4>Dress for success.</h4>
+                <p>In addition to searching for colder water to find active trout, you owe it to yourself to stay cool. Remember the well-known angler tenet: the more comfortable you are, the longer you're likely to be active and casting.
+                In your efforts to remain cool, consider wet wading. Don short pants and your regular wading boots worn over thick socks. Let the cooler water work for you. And if you absolutely must have something between you and the water, wear lightweight, breathable fishing waders.
+                Other optional gear is a mesh fly fishing vest or even better, a fly fishing chest pack. Just be sure to wear a breathable shirt, possibly with a vented back.</p>
 
 
+                <h4>Don't live in the past.</h4>
+                <p>We often use our past experiences to make our decisions instead of looking at the current conditions and making a decision based on that first. I’ve said it for a while to people I come across, 'confidence flies' can be a really bad thing for most of us anglers. The problem with 'confidence flies' is that we often choose them at the car when we rig up and forget about trying to figure out what the river and trout are doing that day. Elk hair caddis catch a lot of fish and deserve a spot in everyones box, but that doesn’t mean you should blindly tie one on and then fish it for half of your day just because “it worked for you last time you were here”.</p>
 
-                <p>Trigger panic is a horrible thing, and if you don’t know how to cure it, it can really mess with your confidence, taking the fun out of shooting your bow. Even if you aren’t struggling with trigger panic (you do), these practices will help you stay calm, even in the most intense circumstances. 
-                </p>
+                <p>If you use the past as your primary influence on your decisions, you’re going to miss fish.  Rivers are always changing, you should be aware of this and make sure the current conditions match your past experiences before you just go for that confidence bug or confidence hole.</p>
+
+                <h4>Pro Tip!</h4>
+                <p>Before you snap that pic for your followers to adore, dip that guy back in the water and pull him out right before you take the picture. Not only will this be less stressfull for the fish, but the water will make him glisten in the light. Guarenteed to get you more likes. Every time.</p>
 
 
                <div class="s-content__author">
