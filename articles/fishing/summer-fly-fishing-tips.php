@@ -165,21 +165,22 @@
                 <p>Before you snap that pic for your followers to adore, dip that guy back in the water and pull him out right before you take the picture. Not only will this be less stressfull for the fish, but the water will make him glisten in the light. Guarenteed to get you more likes. Every time.</p>
 
 
-               <div class="s-content__author">
-                  <img src="/images/avatars/mac.jpg" alt="">
+                <div class="s-content__author">
+                  <img src="/images/avatars/tucker.jpg" alt="">
 
                   <div class="s-content__author-about">
                      <h4 class="s-content__author-name">
-                        Mac Brady
+                        Tucker Brady
                      </h4>
                     
                      <p> 
-                        A husband, father, Logistics Officer in the USAF, and a carbohydrate aficionado. He lives in Norther Utah with his family and enjoys a good glazed donut and all that The Outdoors have to offer. 
+                        A software engineer by trade, but first and foremost a husband and a father. When I'm not wrestling my two boys, or the bugs in my code, I'm up in the mountains. 
                      </p>
 
                      <ul class="s-content__author-social">
-                        <li><a href="https://twitter.com/akaWhiteCheddar" target="_blank">Twitter</a></li>
-                        <li><a href="https://www.instagram.com/macklin_judd/" target="_blank">Instagram</a></li>
+                        <li><a href="https://www.facebook.com/tucker.a.brady" target="_blank">Facebook</a></li>
+                        <li><a href="https://twitter.com/tucker_brady" target="_blank">Twitter</a></li>
+                        <li><a href="https://www.instagram.com/tucker_al/" target="_blank">Instagram</a></li>
                      </ul>
                   </div>
                </div>

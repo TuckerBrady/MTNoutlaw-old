@@ -113,12 +113,12 @@
                                 <h1><a href="/articles/fishing/summer-fly-fishing-tips.php" title="">Summer Fly Fishing Tips & Tricks!</a></h1>
                                 <div class="entry__info">
                                     <div class="entry__profile-pic">
-                                        <img class="avatar" src="images/avatars/mac.jpg" alt="">
+                                        <img class="avatar" src="images/avatars/tucker.jpg" alt="">
                                     </div>
                                     
                                     <ul class="entry__meta">
-                                        <li>Mac</li>
-                                        <li>May 20, 2020</li>
+                                        <li>Tucker</li>
+                                        <li>June 7, 2020</li>
                                     </ul>
                                 </div>
                             </div> 
@@ -184,8 +184,8 @@
                 <article class="masonry__brick entry format-standard" data-aos="fade-up">
                         
                     <div class="entry__thumb">
-                        <a href="articles/lifestyle/who-we-are.php" class="entry__thumb-link">
-                            <img src="images/thumbs/single/standard/who-we-are.jpg">
+                        <a href="articles/fishing/summer-fly-fishing-tips.php" class="entry__thumb-link">
+                            <img src="images/thumbs/featured/fly-fishing.jpg">
                         </a>
                     </div>
     
@@ -193,27 +193,25 @@
                         <div class="entry__header">
                             
                             <div class="entry__date">
-                                January 1, 2020
+                                June 7, 2020
                             </div>
-                            <h1 class="entry__title"><a href="articles/lifestyle/who-we-are.php">Who We Are</a></h1>
+                            <h1 class="entry__title"><a href="/articles/fishing/summer-fly-fishing-tips.php">Summer Fly Fishing Tips</a></h1>
                             
                         </div>
                         <div class="entry__excerpt">
                             <p>
-                                The Mountain Outlaws was a process 20 years in the making. Whether it was trail rides on old motorcycles, camping in the hills above town, fishing alpine lakes and rivers, or hunting trips at the cabin, we’ve spent the majority of our time in the mountains...
+                            It's the best of times, it's the worst of times. That's how I like to describe chasing trout in the heat of the Summer. Let's see if we can't use this weather to our advantage!
                             </p>
                         </div>
                         <div class="entry__meta">
                             <span class="entry__meta-links">
-                                <a href="articles/lifestyle/lifestyle-articles.php">Lifestyle</a> 
-                                <a href="articles/hunting/hunting-articles.php">Hunting</a>
                                 <a href="articles/fishing/fishing-articles.php">Fishing</a>
-                                <a href="articles/outdoor-adventure/outdoor-adventure-articles.php">Outdoor Adventure</a>
                             </span>
                         </div>
                     </div>
     
                 </article> <!-- end article -->
+
 
                 <article class="masonry__brick entry format-quote" data-aos="fade-up">
                         
@@ -262,11 +260,12 @@
     
                 </article> <!-- end article -->
 
+                
                 <article class="masonry__brick entry format-standard" data-aos="fade-up">
                         
                     <div class="entry__thumb">
-                        <a href="articles/fishing/summer-fly-fishing-tips.php" class="entry__thumb-link">
-                            <img src="images/thumbs/featured/fly-fishing.jpg">
+                        <a href="articles/lifestyle/who-we-are.php" class="entry__thumb-link">
+                            <img src="images/thumbs/single/standard/who-we-are.jpg">
                         </a>
                     </div>
     
@@ -274,19 +273,22 @@
                         <div class="entry__header">
                             
                             <div class="entry__date">
-                                June 7, 2020
+                                May 1, 2020
                             </div>
-                            <h1 class="entry__title"><a href="/articles/fishing/summer-fly-fishing-tips.php">Summer Fly Fishing Tips</a></h1>
+                            <h1 class="entry__title"><a href="articles/lifestyle/who-we-are.php">Who We Are</a></h1>
                             
                         </div>
                         <div class="entry__excerpt">
                             <p>
-                            It's the best of times, it's the worst of times. That's how I like to describe chasing trout in the heat of the Summer. Let's see if we can't use this weather to our advantage!
+                                The Mountain Outlaws was a process 20 years in the making. Whether it was trail rides on old motorcycles, camping in the hills above town, fishing alpine lakes and rivers, or hunting trips at the cabin, we’ve spent the majority of our time in the mountains...
                             </p>
                         </div>
                         <div class="entry__meta">
                             <span class="entry__meta-links">
+                                <a href="articles/lifestyle/lifestyle-articles.php">Lifestyle</a> 
+                                <a href="articles/hunting/hunting-articles.php">Hunting</a>
                                 <a href="articles/fishing/fishing-articles.php">Fishing</a>
+                                <a href="articles/outdoor-adventure/outdoor-adventure-articles.php">Outdoor Adventure</a>
                             </span>
                         </div>
                     </div>
