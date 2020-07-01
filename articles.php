@@ -65,7 +65,7 @@
 
                 <div class="header__logo">
                     <a class="logo" href="/">
-                        <img src="images/page-logo.png" alt="Homepage">
+                        <img src="/images/web-logo.png" alt="Homepage">
                     </a>
                 </div> <!-- end header__logo -->
 
