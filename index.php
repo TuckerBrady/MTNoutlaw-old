@@ -86,7 +86,6 @@
                                 <li><a href="articles/outdoor-adventure/outdoor-adventure-articles.php">Outdoor Adventure</a></li>       
                             </ul>
                         </li>
-                        <li><a href="huskydivision.html" title="">Husky Division</a></li>
                         <li><a href="about" title="">About</a></li>
                         <li><a href="contact.php" title="">Contact</a></li>
                     </ul> <!-- end header__nav -->

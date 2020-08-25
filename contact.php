@@ -88,7 +88,6 @@
                                 <li><a href="articles/outdoor-adventure/outdoor-adventure-articles.php">Outdoor Adventure</a></li>       
                             </ul>
                             </li>
-                            <li><a href="huskydivision.php" title="">Husky Division</a></li>
                             <li><a href="about.php" title="">About</a></li>
                             <li class="current"><a href="contact.php" title="">Contact</a></li>
                         </ul> <!-- end header__nav -->
@@ -362,5 +361,3 @@
     <script src="js/main.js"></script>
 
 </body>
-
-<.php>
