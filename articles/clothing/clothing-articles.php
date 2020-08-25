@@ -77,8 +77,8 @@
 
                     <ul class="header__nav">
                         <li><a href="/" title="">Home</a></li>
-                        <li class="has-children, current">
-                            <a href="" title="">Articles</a>
+                        <li class="has-children">
+                            <a href="#" title="">Articles</a>
                             <ul class="sub-menu">
                                 <li><a href="articles/clothing/clothing-articles.php">Clothing</a></li>
                                 <li><a href="articles/fishing/fishing-articles.php">Fishing</a></li>
