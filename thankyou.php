@@ -63,42 +63,7 @@
     ================================================== -->
     <div class="s-pageheader">
 
-        <header class="header">
-            <div class="header__content row">
-
-                <div class="header__logo">
-                    <a class="logo" href="/">
-                        <img src="/images/web-logo.png" alt="Homepage">
-                    </a>
-                </div> <!-- end header__logo -->
-
-                <a class="header__toggle-menu" href="#0" title="Menu"><span>Menu</span></a>
-
-                <nav class="header__nav-wrap">
-
-                    <ul class="header__nav">
-                        <li><a href="/" title="">Home</a></li>
-                        <li class="has-children">
-                            <a href="#" title="">Articles</a>
-                            <ul class="sub-menu">
-                                <li><a href="articles/clothing/clothing-articles.php">Clothing</a></li>
-                                <li><a href="articles/fishing/fishing-articles.php">Fishing</a></li>
-                                <li><a href="articles/gear/gear-articles.php">Gear</a></li>
-                                <li><a href="articles/hunting/hunting-articles.php">Hunting</a></li>
-                                <li><a href="articles/lifestyle/lifestyle-articles.php">Lifestyle</a></li> 
-                                <li><a href="articles/outdoor-adventure/outdoor-adventure-articles.php">Outdoor Adventure</a></li>       
-                            </ul>
-                        </li>
-                        <li><a href="about.php" title="">About</a></li>
-                        <li><a href="contact.php" title="">Contact</a></li>
-                    </ul> <!-- end header__nav -->
-
-                    <a href="#0" title="Close Menu" class="header__overlay-close close-mobile-menu">Close</a>
-
-                </nav> <!-- end header__nav-wrap -->
-
-            </div> <!-- header-content -->
-        </header> <!-- header -->
+    <?php include "./header.html" ?>
 
     </div> <!-- end s-pageheader -->
 
@@ -122,6 +87,10 @@
             </div>
 
         </div>
+
+    <!-- s-footer
+    ================================================== -->
+    <?php include "./footer.php" ?>
 
     <!-- preloader
     ================================================== -->
