@@ -46,11 +46,6 @@
             });
         });
     </script>
-    <script
-        src="https://code.jquery.com/jquery-3.3.1.js"
-        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-        crossorigin="anonymous">
-    </script>
 
     <!-- favicons
     ================================================== -->
@@ -111,9 +106,7 @@
                <p>So feel free to stay a while, read some articles, contribute to some forums, feel free to ask some questions, and share what you’ve learned with the rest of us! After all, aren’t we all on the same side here? The Mountain Outlaws, it’s who WE are!
                </p>
 
-
-               <?php include "../authors/tucker.html" ?>
-            </div> <!-- end s-content__main -->
+        <?php import 
 
       </article>
 
