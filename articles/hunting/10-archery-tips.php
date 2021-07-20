@@ -1,7 +1,7 @@
 <!DOCTYPE php>
 <php class="no-js" lang="en">
 <head>
-    <?php include "./pagehead.php" ?>
+    <?php include "../../pagehead.php" ?>
 </head>
 
 <body id="top">
