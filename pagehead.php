@@ -11,7 +11,7 @@ gtag('config', 'UA-165915729-1');
 <!--- basic page needs
 ================================================== -->
 <meta charset="utf-8">
-<title>Home - MTN Outlaws</title>
+<!-- <title>Home - MTN Outlaws</title> -->
 <meta name="keywords" content="Hunting, Fishing, Camping, Outdoors">
 <meta name="description" content="Free hunting, fishing, and camping education">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

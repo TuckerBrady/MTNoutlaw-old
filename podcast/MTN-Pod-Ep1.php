@@ -1,8 +1,8 @@
-<!DOCTYPE php>
-<php class="no-js" lang="en">
+<!DOCTYPE html>
+<html class="no-js" lang="en">
 <head>
-    <?php include "./pagehead.php" ?>
-    <title>Video - MTN Outlaws</title>
+    <?php include "../pagehead.php" ?>
+    <title>Podcast - MTN Outlaws</title>
 </head>
 
 <body id="top">
@@ -11,43 +11,7 @@
     ================================================== -->
     <div class="s-pageheader">
 
-        <header class="header">
-            <div class="header__content row">
-
-                <div class="header__logo">
-                    <a class="logo" href="/">
-                        <img src="images/page-logo.png" alt="Homepage">
-                    </a>
-                </div> <!-- end header__logo -->
-
-                <a class="header__toggle-menu" href="#0" title="Menu"><span>Menu</span></a>
-
-                <nav class="header__nav-wrap">
-
-                    <ul class="header__nav">
-                        <li><a href="/" title="">Home</a></li>
-                        <li class="has-children">
-                            <a href="#" title="">Articles</a>
-                            <ul class="sub-menu">
-                                <li><a href="articles/clothing/clothing-articles.php">Clothing</a></li>
-                                <li><a href="articles/fishing/fishing-articles.php">Fishing</a></li>
-                                <li><a href="articles/gear/gear-articles.php">Gear</a></li>
-                                <li><a href="articles/hunting/hunting-articles.php">Hunting</a></li>
-                                <li><a href="articles/lifestyle/lifestyle-articles.php">Lifestyle</a></li> 
-                                <li><a href="articles/outdoor-adventure/outdoor-adventure-articles.php">Outdoor Adventure</a></li>       
-                            </ul>
-                        </li>
-                        <li><a href="huskydivision.php" title="">Husky Division</a></li>
-                        <li><a href="about.php" title="">About</a></li>
-                        <li><a href="contact.php" title="">Contact</a></li>
-                    </ul> <!-- end header__nav -->
-
-                    <a href="#0" title="Close Menu" class="header__overlay-close close-mobile-menu">Close</a>
-
-                </nav> <!-- end header__nav-wrap -->
-
-            </div> <!-- header-content -->
-        </header> <!-- header -->
+        <?php include "../header.html" ?>
 
     </div> <!-- end s-pageheader -->
 
@@ -56,11 +20,11 @@
     ================================================== -->
     <section class="s-content s-content--narrow s-content--no-padding-bottom">
 
-        <article class="row format-video">
+        <article class="row format-audio">
 
             <div class="s-content__header col-full">
                 <h1 class="s-content__header-title">
-                    This Is A Video Post Format.
+                    This Is an Audio Post Format.
                 </h1>
                 <ul class="s-content__header-meta">
                     <li class="date">December 16, 2017</li>
@@ -73,9 +37,17 @@
             </div> <!-- end s-content__header -->
     
             <div class="s-content__media col-full">
-                <div class="video-container">
-                    <iframe src="https://player.vimeo.com/video/117310401?color=01aef0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                </div> 
+                <div class="s-content__post-thumb">
+                    <img src="images/thumbs/single/audio/audio-1000.jpg" 
+                         srcset="images/thumbs/single/audio/audio-2000.jpg 2000w, 
+                                images/thumbs/single/audio/audio-1000.jpg 1000w, 
+                                images/thumbs/single/audio/audio-500.jpg 500w" 
+                         sizes="(max-width: 2000px) 100vw, 2000px" alt="" >
+
+                    <div class="audio-wrap">
+                        <audio id="player2" src="./media/MTN-Pod-Episode-1.mp3" width="100%" height="42" controls="controls"></audio>
+                    </div>
+                </div>
             </div> <!-- end s-content__media -->
 
             <div class="col-full s-content__main">
@@ -391,8 +363,8 @@
 
                     <ul class="s-footer__linklist">
                         <li><a href="/">Home</a></li>
-                        <li><a href="huskydivision.php">Husky Division</a></li>
-                        <li><a href="about.php">About</a></li>
+                        <li><a href="huskydivision.html">Husky Division</a></li>
+                        <li><a href="about.html">About</a></li>
                         <li><a href="contact.php">Contact</a></li>
                         <li><a href="#0">Privacy Policy</a></li>
                     </ul>
@@ -503,4 +475,4 @@
 
 </body>
 
-</php>
+</html>

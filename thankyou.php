@@ -2,6 +2,7 @@
 <php class="no-js" lang="en">
 <head>
     <?php include "./pagehead.php" ?>
+    <title>Thank You - MTN Outlaws</title>
 </head>
 
 <body id="top">

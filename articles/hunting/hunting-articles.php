@@ -2,6 +2,7 @@
 <html class="no-js" lang="en">
 <head>
     <?php include "../../pagehead.php" ?>
+    <title>Hunting - MTN Outlaws</title>
 </head>
 
 <body id="top">

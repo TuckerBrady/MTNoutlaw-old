@@ -2,6 +2,7 @@
 <html class="no-js" lang="en">
 <head>
     <?php include "./pagehead.php" ?>
+    <title>Podcast - MTN Outlaws</title>
 </head>
 
 <body id="top">
@@ -81,7 +82,7 @@
                          sizes="(max-width: 2000px) 100vw, 2000px" alt="" >
 
                     <div class="audio-wrap">
-                        <audio id="player2" src="/media/MTN-Pod-Episode-1.mp3" width="100%" height="42" controls="controls"></audio>
+                        <audio id="player2" src="./media/MTN-Pod-Episode-1.mp3" width="100%" height="42" controls="controls"></audio>
                     </div>
                 </div>
             </div> <!-- end s-content__media -->

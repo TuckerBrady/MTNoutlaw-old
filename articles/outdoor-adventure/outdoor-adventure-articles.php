@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
-<?php include "../../pagehead.php" ?>
+    <?php include "../../pagehead.php" ?>
+    <title>Outdoor Adventure - MTN Outlaws</title>
 </head>
 
 <body id="top">
