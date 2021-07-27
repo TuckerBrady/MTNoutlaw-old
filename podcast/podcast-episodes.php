@@ -10,9 +10,7 @@
     <!-- pageheader
     ================================================== -->
     <div class="s-pageheader">
-
         <? include "../header.html" ?>
-
     </div> <!-- end s-pageheader -->
 
 
@@ -36,7 +34,7 @@
                 <article class="masonry__brick entry format-standard" data-aos="fade-up">
                     
                     <div class="entry__thumb">
-                        <a href="./MTN-Pod-Ep1.php" class="entry__thumb-link">
+                        <a href="/podcast/mtn-pod-ep1.php" class="entry__thumb-link">
                             <img src="/images/thumbs/single/standard/who-we-are.jpg">
                         </a>
                     </div>
@@ -47,7 +45,7 @@
                             <div class="entry__date">
                                 October 25, 2020
                             </div>
-                            <h1 class="entry__title"><a href="./MTN-Pod-Ep1.php">Small but Mighty, the Altoids Survival Tin</a></h1>
+                            <h1 class="entry__title"><a href="/podcast/episode-1.php">Small but Mighty, the Altoids Survival Tin</a></h1>
                             
                         </div>
                         <div class="entry__excerpt">
@@ -105,7 +103,7 @@
     
     <!-- s-footer
     ================================================== -->
-    <?php include "../../footer.php" ?>
+    <?php include "../footer.php" ?>
 
 
     <!-- preloader

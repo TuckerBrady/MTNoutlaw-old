@@ -27,6 +27,7 @@ gtag('config', 'UA-165915729-1');
 <link rel="stylesheet" href="css/base.css">
 <link rel="stylesheet" href="css/vendor.css">
 <link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
 
 <!-- script
 ================================================== -->
