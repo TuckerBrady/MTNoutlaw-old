@@ -19,10 +19,9 @@
 
                 <ul class="s-footer__linklist">
                     <li><a href="/">Home</a></li>
-                    <li><a href="huskydivision.html">Husky Division</a></li>
                     <li><a href="about.html">About</a></li>
                     <li><a href="contact.php">Contact</a></li>
-                    <li><a href="#0">Privacy Policy</a></li>
+                    <li><a href="./privacy-policy.php">Privacy Policy</a></li>
                 </ul>
 
             </div> <!-- end s-footer__sitelinks -->

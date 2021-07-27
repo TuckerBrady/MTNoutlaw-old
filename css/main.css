@@ -3540,7 +3540,6 @@ footer h4::after {
  * ## author profile
  * ------------------------------------------------------------------- */
 .s-content__author {
-   margin-top: 10.2rem;
    padding-left: 9rem;
    position: relative;
 }
@@ -3591,7 +3590,9 @@ footer h4::after {
    color: #91967f;
 }
 
-
+.grid-container {
+   display: grid;
+}
 /* -------------------------------------------------------------------
  * ## blog single page navigation
  * ------------------------------------------------------------------- */

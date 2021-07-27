@@ -34,8 +34,8 @@
                 <article class="masonry__brick entry format-standard" data-aos="fade-up">
                     
                     <div class="entry__thumb">
-                        <a href="/podcast/mtn-pod-ep1.php" class="entry__thumb-link">
-                            <img src="/images/thumbs/single/standard/who-we-are.jpg">
+                        <a href="../podcast/episode-1.php" class="entry__thumb-link">
+                            <img src="/images/podcast/altoids-sruvival-tin.jpg">
                         </a>
                     </div>
     

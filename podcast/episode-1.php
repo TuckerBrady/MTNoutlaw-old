@@ -60,18 +60,18 @@
 
 
                 <p class="s-content__tags">
-                    <span>Post Tags</span>
-
-                    <span class="s-content__tag-list">
-                        <a href="#0">orci</a>
-                        <a href="#0">lectus</a>
-                        <a href="#0">varius</a>
-                        <a href="#0">turpis</a>
-                    </span>
+                    <span>Podcasters</span>
                 </p> <!-- end s-content__tags -->
-
-                <?php include "../articles/authors/tucker.html" ?>
-
+                <div class="grid-container">
+                        <div class="grid-item">
+                            <?php include "../articles/authors/mac.html" ?>
+                        </div>
+                        <div class="grid-item">
+                            <?php include "../articles/authors/tucker.html" ?>
+                        </div>
+                </div>
+                
+                
             </div> <!-- end s-content__main -->
 
         </article>
