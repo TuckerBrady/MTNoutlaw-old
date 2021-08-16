@@ -1600,6 +1600,18 @@ button::-moz-focus-inner, input::-moz-focus-inner {
    max-width: 1350px;
 }
 
+.featured-reads {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.featured-read {
+   z-index: 5;
+   color: #FFFFFF;
+   font-size: 8rem;
+}
+
 
 /* -------------------------------------------------------------------
  * ## header logo
@@ -2699,6 +2711,43 @@ html.no-csstransitions .featured {
 }
 
 
+/* ===================================================================
+ * # s-podcast
+ *
+ * ------------------------------------------------------------------- */
+.s-podcast {
+   background-color: #91967f;
+   padding-top: 5rem;
+   padding-bottom: 5rem;
+}
+
+.certified-badge__container {
+   width: 33%;
+}
+
+.certified-badge {
+   position: absolute;
+   padding-right: 130rem;
+   padding-bottom: 10rem;
+}
+
+.featured-pod__container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.featured-pod {
+   color: #FFFFFF;
+   font-size: 6rem;
+   width: auto;
+}
+
+@media screen {
+   
+}
+
+
 
 /* ===================================================================
  * # s-content
@@ -2741,6 +2790,10 @@ html.no-csstransitions .featured {
 @media only screen and (max-width:1200px) {
    .s-content--narrow .row {
       max-width: 900px;
+   }
+
+   .certified-badge {
+      display: none;
    }
 
 }

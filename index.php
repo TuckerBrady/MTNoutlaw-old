@@ -15,6 +15,9 @@
 
         <!-- This is where the 'featured articles are' -->
         <div class="pageheader-content row">
+            <div class="featured-reads">
+                <h1 class="featured-read">Featured Reads</h1>
+            </div>
             <div class="col-full">
 
                 <div class="featured">
@@ -85,6 +88,29 @@
         </div> <!-- end pageheader-content row -->
 
     </section> <!-- end s-pageheader -->
+
+
+        <!-- s-podcast
+    ================================================== -->
+    <section class="s-podcast">
+        <div class="featured-pod__container">
+            <h1 class="featured-pod">Latest Episode</h1>
+            <img class="certified-badge" src="/images/icons/png/certified-gold.png" alt="certified">
+        </div>
+        <!-- <div class="certified-badge__container">
+            
+        </div> -->
+        <div class="row format-audio">
+            <div class="s-content__media col-full">
+                <div class="audio-wrap">
+                    <iframe src="https://anchor.fm/tucker-al-brady/embed/episodes/There-is-Power-in-Hope-enjvof/a-a437osk" height="50%" width="100%" frameborder="0" scrolling="no" controls="controls"></iframe>
+                </div>
+            </div>
+        </div>
+
+
+
+    </section> <!-- end s-podcast -->
 
 
     <!-- s-content

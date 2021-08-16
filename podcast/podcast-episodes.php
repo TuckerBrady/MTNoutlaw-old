@@ -55,10 +55,7 @@
                         </div>
                         <div class="entry__meta">
                             <span class="entry__meta-links">
-                            <a href="articles/lifestyle/lifestyle-articles.php">Lifestyle</a> 
-                                <a href="articles/hunting/hunting-articles.php">Hunting</a>
-                                <a href="articles/fishing/fishing-articles.php">Fishing</a>
-                                <a href="articles/outdoor-adventure/outdoor-adventure-articles.php">Outdoor Adventure</a>
+                            <a href="../articles/lifestyle/lifestyle-articles.php">Lifestyle</a> 
                             </span>
                         </div>
                     </div>
@@ -68,8 +65,8 @@
                 <article class="masonry__brick entry format-standard" data-aos="fade-up">
                     
                     <div class="entry__thumb">
-                        <a href="/articles/hunting/10-archery-tips.php" class="entry__thumb-link">
-                            <img src="/images/thumbs/featured/archery-tips.jpg">
+                        <a href="../podcast/episode-2.php" class="entry__thumb-link">
+                            <img src="../images/podcast/daypack.jpg">
                         </a>
                     </div>
     
@@ -79,17 +76,48 @@
                             <div class="entry__date">
                                 June 1, 2020
                             </div>
-                            <h1 class="entry__title"><a href="/articles/hunting/10-archery-tips.php">10 Archery Tips To Help Improve Your Accuracy: Trigger Panic</a></h1>
+                            <h1 class="entry__title"><a href="../podcast/episode-2.php">Don't Sweat the Small Stuff, Your Daypack Can Handle It.</a></h1>
                             
                         </div>
                         <div class="entry__excerpt">
                             <p>
-                            Do you get the cold sweats when you're aiming your arrow down range? Mind starts racing as your arms quake a bit; slowly but surely it starts to consume your mind and your confidence. Let's break it down...
+                            The boys follow up their last chat about Altoids Survival Tins by talking about the next ecolution in carrying the essentials, the daypack.
                             </p>
                         </div>
                         <div class="entry__meta">
                             <span class="entry__meta-links">
-                                <a href="articles/hunting/hunting-articles.php">Hunting</a>
+                                <a href="../articles/hunting/hunting-articles.phpp">Hunting</a>
+                            </span>
+                        </div>
+                    </div>
+    
+                </article> <!-- end article -->
+
+                <article class="masonry__brick entry format-standard" data-aos="fade-up">
+                    
+                    <div class="entry__thumb">
+                        <a href="../podcast/episode-3.php" class="entry__thumb-link">
+                            <img src="../images/podcast/daypack.jpg">
+                        </a>
+                    </div>
+    
+                    <div class="entry__text">
+                        <div class="entry__header">
+                            
+                            <div class="entry__date">
+                                December 9, 2020
+                            </div>
+                            <h1 class="entry__title"><a href="../podcast/episode-3.php">There is Power in Hope</a></h1>
+                            
+                        </div>
+                        <div class="entry__excerpt">
+                            <p>
+                            The boys discuss how we can learn from past failures.
+                            </p>
+                        </div>
+                        <div class="entry__meta">
+                            <span class="entry__meta-links">
+                                <a href="../articles/lifestyle/lifestyle-articles.php">Lifestyle</a>
                             </span>
                         </div>
                     </div>

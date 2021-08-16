@@ -22,19 +22,19 @@
 
             <div class="s-content__header col-full">
                 <h1 class="s-content__header-title">
-                    Don't Sweat the Small Stuff, Your Daypack Can Handle It.
+                    Don't Sweat the Small Stuff, Your Daypack Can Handle It
                 </h1>
                 <ul class="s-content__header-meta">
-                    <li class="date">November 05, 2020</li>
+                    <li class="date">November 20, 2020</li>
                     <li class="cat">
-                        In Lifestyle
+                        In Gear
                     </li>
                 </ul>
             </div> <!-- end s-content__header -->
     
             <div class="s-content__media col-full">
                 <div class="audio-wrap">
-                    <iframe src="https://anchor.fm/tucker-al-brady/embed/episodes/Dont-Sweat-the-Small-Stuff--Your-Daypack-Can-Handle-It-empm2j/a-a3tjnjs" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+                    <iframe src="https://anchor.fm/tucker-al-brady/embed/episodes/Dont-Sweat-the-Small-Stuff--Your-Daypack-Can-Handle-It-empm2j/a-a3tjnjs" height="50%" width="100%" frameborder="0" scrolling="no" controls="controls"></iframe>
                 </div>
             </div> <!-- end s-content__media -->
 
@@ -49,7 +49,7 @@
                 <h2>In this episode:</h2>
 
                 <p>
-                    The Outlaws dive into the world of podcasting! 
+                    The boys discuss the ins and outs of daypacks... amonst other things 
                 </p>
 
 
@@ -62,9 +62,16 @@
                 <p class="s-content__tags">
                     <span>Podcasters</span>
                 </p> <!-- end s-content__tags -->
-
-                <?php include "../articles/authors/tucker.html" ?>
-
+                <div class="grid-container">
+                        <div class="grid-item">
+                            <?php include "../articles/authors/mac.html" ?>
+                        </div>
+                        <div class="grid-item">
+                            <?php include "../articles/authors/tucker.html" ?>
+                        </div>
+                </div>
+                
+                
             </div> <!-- end s-content__main -->
 
         </article>
