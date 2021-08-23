@@ -1,8 +1,8 @@
 <!DOCTYPE php>
 <php class="no-js" lang="en">
 <head>
-    <?php include "../../pagehead.php" ?>
-    <title>Lifestyle - MTN Outlaws</title>
+    <?php include "./pagehead.php" ?>
+    <title>Article - MTN Outlaws</title>
 </head>
 
 <body id="top">
@@ -24,13 +24,13 @@
 
             <div class="s-content__header col-full">
                 <h1 class="s-content__header-title">
-                    Who We Are.
+                    Get to Know Your Bow
                 </h1>
                 <ul class="s-content__header-meta">
-                    <li class="date">January 1, 2020</li>
+                    <li class="date">August 16, 2021</li>
                     <li class="cat">
                         In
-                        <a href="/articles/lifestyle/lifestyle-articles.php">Lifestyle</a>
+                        <a href="/articles/lifestyle/gear-articles.php">Gear</a>
                     </li>
                 </ul>
             </div> <!-- end s-content__header -->
@@ -57,9 +57,7 @@
                <p>So feel free to stay a while, read some articles, contribute to some forums, feel free to ask some questions, and share what you’ve learned with the rest of us! After all, aren’t we all on the same side here? The Mountain Outlaws, it’s who WE are!
                </p>
 
-
                <?php include "../authors/tucker.html" ?>
-            </div> <!-- end s-content__main -->
 
       </article>
 

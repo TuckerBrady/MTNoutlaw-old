@@ -37,7 +37,7 @@
                         
                     <div class="entry__thumb">
                         <a href="/articles/lifestyle/who-we-are.php" class="entry__thumb-link">
-                            <img src="/images/thumbs/single/standard/who-we-are.jpg">
+                            <img src="/images/thumbs/who-we-are.jpg">
                         </a>
                     </div>
     
@@ -61,6 +61,38 @@
                                 <a href="articles/hunting/hunting-articles.php">Hunting</a>
                                 <a href="articles/fishing/fishing-articles.php">Fishing</a>
                                 <a href="articles/outdoor-adventure/outdoor-adventure-articles.php">Outdoor Adventure</a>
+                            </span>
+                        </div>
+                    </div>
+    
+                </article> <!-- end article -->
+
+                <article class="masonry__brick entry format-standard" data-aos="fade-up">
+                        
+                    <div class="entry__thumb">
+                        <a href="/articles/gear/get-to-know-your-bow.php" class="entry__thumb-link">
+                            <img src="/images/thumbs/who-we-are.jpg">
+                        </a>
+                    </div>
+    
+                    <div class="entry__text">
+                        <div class="entry__header">
+                            
+                            <div class="entry__date">
+                                August 16, 2021
+                            </div>
+                            <h1 class="entry__title"><a href="/articles/gear/get-to-know-your-bow.php">Get to Know Your Bow</a></h1>
+                            
+                        </div>
+                        <div class="entry__excerpt">
+                            <p>
+                            New to the world of archery? Be sure you know the basics of your new bow!
+                            </p>
+                        </div>
+                        <div class="entry__meta">
+                            <span class="entry__meta-links">
+                            <a href="articles/gear/gear-articles.php">Gear</a> 
+                                <a href="articles/hunting/hunting-articles.php">Hunting</a>
                             </span>
                         </div>
                     </div>

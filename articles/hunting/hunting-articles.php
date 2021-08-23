@@ -37,7 +37,7 @@
                     
                     <div class="entry__thumb">
                         <a href="/articles/lifestyle/who-we-are.php" class="entry__thumb-link">
-                            <img src="/images/thumbs/single/standard/who-we-are.jpg">
+                            <img src="/images/thumbs/who-we-are.jpg">
                         </a>
                     </div>
     
@@ -71,7 +71,7 @@
                     
                     <div class="entry__thumb">
                         <a href="/articles/hunting/10-archery-tips.php" class="entry__thumb-link">
-                            <img src="/images/thumbs/featured/archery-tips.jpg">
+                            <img src="/images/thumbs/archery-tips.jpg">
                         </a>
                     </div>
     

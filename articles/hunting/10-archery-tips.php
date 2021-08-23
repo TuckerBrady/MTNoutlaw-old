@@ -37,7 +37,7 @@
     
             <div class="s-content__media col-full">
                 <div class="s-content__post-thumb">
-                    <img src="/images/thumbs/featured/archery-tips.jpg">
+                    <img src="/images/thumbs/archery-tips.jpg">
                 </div>
             </div> <!-- end s-content__media -->
 

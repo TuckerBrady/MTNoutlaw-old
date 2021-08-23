@@ -22,7 +22,7 @@
 
                 <div class="featured">
 
-                    <div class="featured__column featured__column--big" style="background-image: url('images/thumbs/featured/fly-fishing.jpg');">
+                    <div class="featured__column featured__column--big" style="background-image: url('images/thumbs/fly-fishing.jpg');">
 
                         <div class="entry" >
                             <div class="entry__content">
@@ -47,7 +47,7 @@
 
                     <div class="featured__column featured__column--small">
 
-                    <div class="entry" style="background-image:url('images/thumbs/featured/archery-tips.jpg');">
+                    <div class="entry" style="background-image:url('images/thumbs/archery-tips.jpg');">
 
                     <div class="entry__content">
                         <span class="entry__category"><a href="/articles/hunting/hunting-articles.php">Hunting</a></span>
@@ -64,7 +64,7 @@
 
                     </div> <!-- end entry -->
 
-                        <div class="entry" style="background-image:url('/images/thumbs/single/standard/who-we-are.jpg');">
+                        <div class="entry" style="background-image:url('/images/thumbs/who-we-are.jpg');">
                             
                             <div class="entry__content">
                                 <span class="entry__category"><a href="/articles/lifestyle/lifestyle-articles.php">Lifestyle</a></span>
@@ -126,7 +126,7 @@
                         
                     <div class="entry__thumb">
                         <a href="articles/fishing/summer-fly-fishing-tips.php" class="entry__thumb-link">
-                            <img src="images/thumbs/featured/fly-fishing.jpg">
+                            <img src="images/thumbs/fly-fishing.jpg">
                         </a>
                     </div>
     
@@ -174,7 +174,7 @@
                     
                     <div class="entry__thumb">
                         <a href="/articles/hunting/10-archery-tips.php" class="entry__thumb-link">
-                            <img src="/images/thumbs/featured/archery-tips.jpg">
+                            <img src="/images/thumbs/archery-tips.jpg">
                         </a>
                     </div>
     
@@ -206,7 +206,7 @@
                         
                     <div class="entry__thumb">
                         <a href="articles/lifestyle/who-we-are.php" class="entry__thumb-link">
-                            <img src="images/thumbs/single/standard/who-we-are.jpg">
+                            <img src="images/thumbs/standard/who-we-are.jpg">
                         </a>
                     </div>
     

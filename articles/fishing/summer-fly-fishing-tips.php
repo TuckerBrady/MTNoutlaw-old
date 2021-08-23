@@ -37,7 +37,7 @@
     
             <div class="s-content__media col-full">
                 <div class="s-content__post-thumb">
-                    <img src="/images/thumbs/featured/fly-fishing.jpg">
+                    <img src="/images/thumbs/fly-fishing.jpg">
                 </div>
             </div> <!-- end s-content__media -->
 
