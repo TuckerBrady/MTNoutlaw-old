@@ -1,7 +1,7 @@
 <!DOCTYPE php>
 <php class="no-js" lang="en">
 <head>
-    <?php include "./pagehead.php" ?>
+    <?php include "../../header.html" ?>
     <title>Article - MTN Outlaws</title>
 </head>
 
@@ -37,7 +37,7 @@
     
             <div class="s-content__media col-full">
                 <div class="s-content__post-thumb">
-                    <img src="/images/thumbs/who-we-are.jpg">
+                    <img src="/images/thumbs/hoyt-eclipse.png">
                 </div>
             </div> <!-- end s-content__media -->
 

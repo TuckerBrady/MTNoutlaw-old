@@ -94,7 +94,7 @@
     ================================================== -->
     <section class="s-podcast">
         <div class="featured-pod__container">
-            <h1 class="featured-pod">Latest Episode</h1>
+            <h1 class="featured-pod">Latest Podcast</h1>
             <img class="certified-badge" src="/images/icons/png/certified-gold.png" alt="certified">
         </div>
         <!-- <div class="certified-badge__container">
@@ -206,7 +206,7 @@
                         
                     <div class="entry__thumb">
                         <a href="articles/lifestyle/who-we-are.php" class="entry__thumb-link">
-                            <img src="images/thumbs/standard/who-we-are.jpg">
+                            <img src="/images/thumbs/who-we-are.jpg">
                         </a>
                     </div>
     

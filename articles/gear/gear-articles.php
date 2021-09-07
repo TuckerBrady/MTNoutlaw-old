@@ -71,7 +71,7 @@
                         
                     <div class="entry__thumb">
                         <a href="/articles/gear/get-to-know-your-bow.php" class="entry__thumb-link">
-                            <img src="/images/thumbs/who-we-are.jpg">
+                            <img src="../../images/thumbs/hoyt-eclipse.png">
                         </a>
                     </div>
     
