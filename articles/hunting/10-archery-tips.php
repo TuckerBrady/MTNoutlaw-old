@@ -1,4 +1,4 @@
-<!DOCTYPE php>
+<!DOCTYPE html>
 <php class="no-js" lang="en">
 <head>
     <?php include "../../pagehead.php" ?>
@@ -100,4 +100,4 @@
 
 </body>
 
-</php>
+</html>

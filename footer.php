@@ -92,7 +92,7 @@
         <div class="row">
             <div class="col-full">
                 <div class="s-footer__copyright">
-                    <span>© MTN Outlaws 2021</span> 
+                    <span>© MTN Outlaws 2022</span> 
                 </div>
 
                 <div class="go-top">

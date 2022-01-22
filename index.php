@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 <head>
     <?php include "./pagehead.php" ?>
-    <title>Home - MTN Outlaws</title>
+    <title>Home - Outdoor Lifestyle</title>
 </head>
 
 <body id="top">
